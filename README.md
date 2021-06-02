@@ -8,3 +8,5 @@ Szerzők:
 - Béres Bence
 - Szász Kristóf
 - Várai Axel
+
+Videó a program futásáról: https://youtu.be/inkT_bS8wbk
